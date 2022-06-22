@@ -1,0 +1,14 @@
+{
+  "results_title": "High Scores",
+  "cancel": "Cancel",
+  "yes": "Submit",
+  "score_prefix": "Score:",
+  "simon_turn": "Simon Says",
+  "player_turn": "Your Turn",
+  "play_button": "Play",
+  "gameOver": "Game Over",
+  "enter_name": "Enter your name",
+  "enter_name_placehoder": "Name",
+  "results_list_header": "Results",
+  "empty_results_list": "No Results!"
+}
