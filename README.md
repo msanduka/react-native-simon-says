@@ -1,4 +1,4 @@
-<h1>Simons Says App</h1>
+<h1>Simon Says App</h1>
 <hr><p>Simons Says is a memory game with 4 big buttons(green, yellow, blue and red). Each key is linked to sound which will help the player to memorize the series of illuminated keys.</p>
 <p>The app includes two screens:</p>
 <p>Game screen:</p>
